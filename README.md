@@ -1,6 +1,6 @@
 # CDS 303 Final Project
 
-**Seungeun Choi and Junhwa Hong**
+**Member: Seungeun Choi and Junhwa Hong**
 
 Our project groups Washington, D.C. census tracts by their 2025 reported crime composition and uses property assessment data to provide additional context.
 
