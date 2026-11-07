@@ -1,0 +1,13 @@
+title: Crime-Type Profiles in Washington, D.C.
+description: CDS 303 Final Project — Seungeun Choi and Junhwa Hong
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
