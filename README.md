@@ -199,7 +199,7 @@ Key existing files to add to the repository if desired are `tract_combined_unsca
 
 We used ChatGPT to help develop and troubleshoot preprocessing code, including tract aggregation, merging, overlapping land-use geometry handling, diagnostics, and exports. It helped explain errors and add Korean explanations for team review.
 
-The instructor’s Demo 6 was the basis of the PCA workflow. ChatGPT helped adapt it to this dataset, discuss variable and component selection, implement visualizations, and interpret weights and the biplot. It also assisted with the research question, audience, and report drafts. The team ran the notebook and reviewed outputs; this does not mean all methodological sensitivities were tested. AI-assisted documentation was checked against supplied outputs and linked source metadata. The new metadata clarification above corrects an earlier overly general AI-assisted statement about temporal uncertainty.
+CDS 303 Demo 6 was the basis of the PCA workflow. ChatGPT helped adapt it to this dataset, discuss variable and component selection, implement visualizations, and interpret weights and the biplot. It also assisted with the research question, audience, and report drafts. The team ran the notebook and reviewed outputs; this does not mean all methodological sensitivities were tested. AI-assisted documentation was checked against supplied outputs and linked source metadata. The new metadata clarification above corrects an earlier overly general AI-assisted statement about temporal uncertainty.
 
 ## References
 
