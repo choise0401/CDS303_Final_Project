@@ -207,4 +207,4 @@ The instructor’s Demo 6 was the basis of the PCA workflow. ChatGPT helped adap
 - DC Office of the Chief Technology Officer, Office of Planning, and Office of Tax and Revenue. [Existing Land Use](https://opendata.dc.gov/datasets/DCGIS::existing-land-use). [Official metadata, including purpose, lineage, and category definitions](https://www.arcgis.com/sharing/rest/content/items/4dbc33ec9ee44e2092f23ea072501533/info/metadata/metadata.xml?format=default&output=html). Checked November 22, 2026.
 - US Census Bureau. [2025 TIGER/Line census tract files](https://www2.census.gov/geo/tiger/TIGER2025/TRACT/), DC file `tl_2025_11_tract.zip`.
 - CDS 303 course materials. `CDS303_Demo_06.ipynb`, supplied instructor notebook; basis for the PCA implementation.
-- Instructor-provided *Final Project 2: Data Integration, Research Question Refinement & PCA* assignment text, supplied in the project conversation; basis for the scope and rubric audit.
+- Instructor-provided *Final Project 2: Data Integration, Research Question Refinement & PCA* assignment text
