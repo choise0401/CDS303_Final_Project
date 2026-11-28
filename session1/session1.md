@@ -46,7 +46,7 @@ Property characteristics will serve as external context because they are not use
 
 ### 2.1 Main Research Question
 
-> How do Washington, D.C. census tracts cluster based on the composition of their reported crimes in 2025, and which crime characteristics distinguish the resulting clusters?
+> What distinct neighborhood profiles can be identified among Washington, D.C. census tracts based on their reported crime composition and land-use characteristics, particularly in commercial-oriented areas, and which characteristics distinguish these profiles?
 
 ### 2.2 Additional Exploratory Question
 
