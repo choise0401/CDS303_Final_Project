@@ -50,7 +50,7 @@ Property characteristics will serve as external context because they are not use
 
 ### 2.2 Additional Exploratory Question
 
-> After linking property records to the same census tracts, how do the crime-based clusters differ in residential property-type composition and assessed residential property values?
+> Among census tracts with relatively high commercial land-use shares, which combinations of crime composition and other land-use characteristics distinguish the neighborhood profiles identified through clustering?
 
 | Sub-question | Evidence we will examine |
 |---|---|
