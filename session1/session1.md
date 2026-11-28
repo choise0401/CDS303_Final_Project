@@ -61,12 +61,11 @@ Property characteristics will serve as external context because they are not use
 
 ### 2.3 Unit of Analysis and Scope
 
-Each row of the modeling table will represent one census tract with valid included crime records. Census tracts are statistical geographic units and may differ from everyday neighborhood boundaries. We will aggregate the crime records and property records separately before joining them by compatible tract identifiers.
+Each row of the combined dataset represents one Washington, D.C. census tract. Crime records are aggregated into offense-type proportions, while land-use polygons are summarized into area proportions within each tract. The two datasets are integrated using the census tract GEOID.
 
-This is a cross-sectional analysis of the 2025 crime composition, not a time-series analysis. `REPORT_DAT` will define the reporting period rather than generate monthly trends, weekend measures, or nighttime indicators. We will not use population data, so the offense percentages will not represent crimes per resident. They will describe the composition of included records rather than a neighborhood safety ranking.
+This study focuses on the composition of reported crimes in 2025 and land-use characteristics, with particular attention to commercial-oriented census tracts. The analysis uses PCA to reduce dimensionality, followed by clustering and classification in later project stages to identify and explain distinct neighborhood profiles.
 
-The crime data will define the clusters. The property data will provide additional context, subject to successful geocoding and compatible geographic assignment. The design does not estimate the causal effect of crime on property values.
-
+Crime proportions represent the relative distribution of reported offenses, not population-adjusted crime rates or overall neighborhood safety. The analysis is exploratory and does not establish causal relationships between land use and crime.
 ## 3. Main Dataset: Crime Incidents in 2025
 
 | Item | Description |
